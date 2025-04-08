@@ -16,7 +16,7 @@ To implement a stack using Python's built-in list data structure and its methods
 5.Display the stack after the pop operations.
 
 ## Program:
-```
+```python
 stack = []
 stack.append(input())
 stack.append(input())
